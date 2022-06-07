@@ -1,0 +1,10 @@
+
+.homelayer{
+    background-color: #26292e;
+    opacity: 0.80;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}

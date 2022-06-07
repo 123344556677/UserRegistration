@@ -1,0 +1,12 @@
+.title{
+color: #F9FAFF;
+}
+.links{
+    text-decoration: none;
+    color:#7e8299;
+    font-weight: 500; 
+}
+.links:hover{
+ color: #F9FAFF;
+ transition: 0.6s ease;  
+}

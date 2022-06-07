@@ -1,0 +1,45 @@
+.item{
+    list-style-type: none;
+    
+}
+.data{
+    margin-top:20px;
+    font-size: 17px;
+    top: 0;
+    padding: 8px 8px 8px 8px;
+    
+}
+.navs{
+    background-color: black;
+    left: -100%;
+    width:250px;
+    height:100vh;
+    position: fixed;
+}
+.navs.active{
+    left:0;
+    transition: 400ms;
+}
+.dec{
+    text-decoration: none;
+    color: cornsilk;
+}
+.title{
+    margin-left: 10px;
+}
+.links{
+    font-size: 20px;
+    color: cornsilk;
+    margin-left: 15px;
+}
+.dec:hover{
+    border-bottom: 1px solid red;
+    color: salmon;
+    transition: 0.6s ease;
+}
+.bar{
+    color: darkblue;
+    font-size: 25px;
+    margin-left: 30px;
+
+}
